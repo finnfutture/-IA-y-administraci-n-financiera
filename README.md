@@ -1,1 +1,6 @@
 # -IA-y-administraci-n-financiera
+La gestión patrimonial está cambiando profundamente gracias a la inteligencia artificial y la automatización. Con el uso de algoritmos avanzados y robo advisors, es posible ofrecer a los clientes una experiencia financiera personalizada, eficiente y accesible. Esto significa que los inversores de todos los niveles pueden aprovechar estrategias de inversión que antes eran exclusivas para quienes podían pagar asesoría tradicional.
+
+No obstante, el cambio a la digitalización y automatización trae desafíos importantes. Por un lado, la reducción de la intervención humana puede hacer que el proceso se sienta menos cercano, lo cual es un reto en un campo tan personal como las finanzas. Además, los robo advisors y sistemas automatizados están expuestos a riesgos de ciberseguridad y posibles errores en el código, lo que podría comprometer la precisión y seguridad de las decisiones financieras.
+
+El futuro de la gestión patrimonial parece estar ligado a un equilibrio entre la tecnología y el contacto humano, maximizando las ventajas de la automatización sin dejar de lado la atención y el servicio personalizado. La capacidad de adaptarse a estos cambios será clave para el éxito de las empresas financieras en un mundo cada vez más digital.
